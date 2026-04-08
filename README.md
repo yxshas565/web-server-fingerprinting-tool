@@ -67,8 +67,7 @@ Client(s) → SSL → Server → Banner Grabbing → Service Detection → Respo
 ## ▶️ How to Run
 
 ```bash
-python server.py
-python client.py
+To run the tool, open a terminal in the project folder. First, start the server by running python server.py. Then open another terminal and run python client.py. In the client program, enter the target website name when prompted (for example, google.com). The tool will connect to the server and display the detected web server type and version.
 ```
 
 ---
@@ -94,7 +93,7 @@ Email: [Vishwashosamath47@gmail.com](mailto:Vishwashosamath47@gmail.com)
 
 ---
 
-**Thejaswi Bhat**
+**Thejaswi S**
 SRN: PES2UG24CS562
 GitHub: RockingThej
 Email: [thejubhat2006@gmail.com](mailto:thejubhat2006@gmail.com)
