@@ -1,7 +1,7 @@
-import socket
-import ssl
-import threading
-
+import socket #used for network communication
+import ssl    #adds security layer 
+import threading # used for running multiple tasks 
+#server details (local host)
 HOST = "127.0.0.1"
 PORT = 8443
 
