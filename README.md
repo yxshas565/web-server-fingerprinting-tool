@@ -115,7 +115,7 @@ Email: [thejubhat2006@gmail.com](mailto:thejubhat2006@gmail.com)
 * Input handling and communication logic
 * Testing and debugging
 
-### Thejaswi Bhat
+### Thejaswi S
 
 * Banner grabbing logic
 * Server & version detection
